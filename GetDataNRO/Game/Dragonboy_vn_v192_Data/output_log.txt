@@ -5,33 +5,33 @@ Direct3D:
     Renderer: NVIDIA GeForce RTX 2060 SUPER (ID=0x1f06)
     Vendor:   NVIDIA
     VRAM:     3072 MB
-    Driver:   31.0.15.2824
+    Driver:   31.0.15.2849
 Begin MonoManager ReloadAssembly
-Platform assembly: F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.013 seconds
-Platform assembly: F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 2560x1440 144Hz; virtual: 4480x1440 at -1920,0
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 0.859300 ms
+UnloadTime: 1.065900 ms
 Setting up 8 worker threads for Enlighten.
-  Thread -> id: 5d98 -> priority: 1 
-  Thread -> id: 26c8 -> priority: 1 
-  Thread -> id: 5d9c -> priority: 1 
-  Thread -> id: 60ec -> priority: 1 
-  Thread -> id: 3784 -> priority: 1 
-  Thread -> id: 8b0 -> priority: 1 
-  Thread -> id: 55c0 -> priority: 1 
-  Thread -> id: 1484 -> priority: 1 
+  Thread -> id: 1d3c -> priority: 1 
+  Thread -> id: 103c -> priority: 1 
+  Thread -> id: f34 -> priority: 1 
+  Thread -> id: 2a00 -> priority: 1 
+  Thread -> id: 1dd0 -> priority: 1 
+  Thread -> id: 5584 -> priority: 1 
+  Thread -> id: 15b0 -> priority: 1 
+  Thread -> id: 2388 -> priority: 1 
 init Session_ME
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -56,7 +56,15 @@ port: 14445
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Platform assembly: F:\C#\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\LitJSON.dll (this message is harmless)
+Platform assembly: F:\C#\DragonBoyProject\BanToolData\GetDataNRO\Game\Dragonboy_vn_v192_Data\Managed\LitJSON.dll (this message is harmless)
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 APP QUIT
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -82,10 +90,6 @@ APP QUIT
   at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
   at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
   at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-APP QUIT
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
